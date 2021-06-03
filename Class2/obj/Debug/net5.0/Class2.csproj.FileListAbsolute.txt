@@ -1,0 +1,15 @@
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/bin/Debug/net5.0/Class2.deps.json
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/bin/Debug/net5.0/Class2.runtimeconfig.json
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/bin/Debug/net5.0/Class2.runtimeconfig.dev.json
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/bin/Debug/net5.0/Class2.dll
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/bin/Debug/net5.0/ref/Class2.dll
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/bin/Debug/net5.0/Class2.pdb
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/obj/Debug/net5.0/Class2.csprojAssemblyReference.cache
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/obj/Debug/net5.0/Class2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/obj/Debug/net5.0/Class2.AssemblyInfoInputs.cache
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/obj/Debug/net5.0/Class2.AssemblyInfo.cs
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/obj/Debug/net5.0/Class2.csproj.CoreCompileInputs.cache
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/obj/Debug/net5.0/Class2.dll
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/obj/Debug/net5.0/ref/Class2.dll
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/obj/Debug/net5.0/Class2.pdb
+/Users/dionfinnerty/Swinburne/code/ClassesTaks/Class2/obj/Debug/net5.0/Class2.genruntimeconfig.cache
