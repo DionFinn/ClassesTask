@@ -20,7 +20,6 @@ namespace Class2
             this.DOB = DOB;
             this.Height = Height;
             this.ID = CreateID();
-           
         }
             public string GetFullName() { 
                 return $"{FirstName} {Surname}";
